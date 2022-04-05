@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/akshay_directory/static/css/main.e4bdbcf4.css",
+    "main.js": "/akshay_directory/static/js/main.8d7606d3.js",
+    "static/media/books.jpg": "/akshay_directory/static/media/books.dc82cc8e4b7f49d34962.jpg",
+    "static/media/fruits.jpeg": "/akshay_directory/static/media/fruits.37f675de948230d3d292.jpeg",
+    "static/media/stationery.jpeg": "/akshay_directory/static/media/stationery.d8ea25b542d1c554ec67.jpeg",
+    "index.html": "/akshay_directory/index.html",
+    "main.e4bdbcf4.css.map": "/akshay_directory/static/css/main.e4bdbcf4.css.map",
+    "main.8d7606d3.js.map": "/akshay_directory/static/js/main.8d7606d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bdbcf4.css",
+    "static/js/main.8d7606d3.js"
+  ]
+}
